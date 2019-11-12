@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+	<file>images/dribbble.jpg</file>
+	<file>images/main_wp.jpg</file>
+	<file>images/cloud.png</file>
+	<file>images/drop.png</file>
+	<file>images/dropblue.png</file>
+	<file>images/flash.png</file>
+	<file>images/hot.png</file>
+	<file>images/night.jpg</file>
+	<file>images/sunn.jpg</file>
+	<file>images/sunny.png</file>
+	<file>images/sunrise.jpg</file>
+	<file>images/sunset.jpg</file>
+	<file>images/sunsett.jpg</file>
+	<file>images/sunsettt.jpg</file>
+	<file>images/thermometer.png</file>
+	<file>images/umbrella.png</file>
+    </qresource>
+</RCC>
